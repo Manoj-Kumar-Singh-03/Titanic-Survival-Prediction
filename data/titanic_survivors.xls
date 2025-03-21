@@ -1,0 +1,153 @@
+PassengerId,Survived,Name,Age,SibSp,Parch,Ticket,Fare,Cabin,Sex_male,Embarked_Q,Embarked_S,Pclass_2,Pclass_3
+893,1,"Wilkes, Mrs. James (Ellen Needs)",1.3713700413713346,1,0,363272,-0.5122780073786185,,False,False,True,False,True
+896,1,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",-0.5989079447880722,1,1,3101298,-0.41749150070575175,,False,False,True,False,True
+898,1,"Connolly, Miss. Kate",0.031581010782937916,0,0,330972,-0.5009986371661234,,False,True,False,False,True
+900,1,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",-0.9141524225735773,0,0,2657,-0.5081692476000046,,False,False,False,False,True
+904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",-0.520096825341696,1,0,21228,0.8369924534808912,B45,False,False,True,False,False
+906,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",1.3713700413713346,1,0,W.E.P. 5734,0.4588915432601625,E31,False,False,True,False,False
+907,1,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",-0.4412857058953197,1,0,SC/PARIS 2167,-0.1408260456827061,,False,False,False,True,False
+910,1,"Ilmakangas, Miss. Ida Livija",-0.2048523475561909,1,0,STON/O2. 3101270,-0.4956959707502683,,False,False,True,False,True
+911,1,"Assaf Khalil, Mrs. Mariana (Miriam"")""",1.213747802478582,0,0,2696,-0.5082445390095603,,False,False,False,False,True
+914,1,"Flegenheim, Mrs. Alfred (Antoinette)",-0.2048523475561909,0,0,PC 17598,-0.06979218607207077,,False,False,True,False,False
+916,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1.4501811608177106,1,3,PC 17608,4.065708591502392,B57 B59 B63 B66,False,False,False,False,False
+918,1,"Ostby, Miss. Helene Ragnhild",-0.5989079447880722,0,1,113509,0.4733080555374806,B36,False,False,False,False,False
+924,1,"Dean, Mrs. Bertram (Eva Georgetta Light)",0.2680143691220667,1,2,C.A. 2315,-0.26892541577877627,,False,False,True,False,True
+925,1,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",-0.2048523475561909,1,2,W./C. 6607,-0.2173866532852554,,False,False,True,False,True
+928,1,"Roth, Miss. Sarah A",-0.2048523475561909,0,0,342712,-0.4934551549896804,,False,False,True,False,True
+929,1,"Cacic, Miss. Manda",-0.6777190642344485,0,0,315087,-0.48247515776279987,,False,False,True,False,True
+935,1,"Corbett, Mrs. Walter H (Irene Colvin)",0.031581010782937916,0,0,237249,-0.40471885087040094,,False,False,True,True,False
+936,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",1.213747802478582,1,0,11753,0.3043505471891556,D19,False,False,True,False,False
+940,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",2.395914594174226,0,0,11813,0.7298814601247914,D15,False,False,False,False,False
+941,1,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",0.5044477274611955,0,2,C.A. 37671,-0.3527319252247625,,False,False,True,False,True
+944,1,"Hocking, Miss. Ellen Nellie""""",-0.7565301836808248,2,1,29105,-0.22545359002337167,,False,False,True,True,False
+945,1,"Fortune, Miss. Ethel Flora",-0.1260412281098146,3,2,19950,4.07691267030533,C23 C25 C27,False,False,True,False,False
+951,1,"Chaudanson, Miss. Victorine",0.5044477274611955,0,0,PC 17608,4.065708591502392,B61,False,False,False,False,False
+955,1,"Bradley, Miss. Bridget Delia",-0.5989079447880722,0,0,334914,-0.49928127596720884,,False,True,False,False,True
+957,1,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",-0.2048523475561909,0,0,F.C.C. 13534,-0.26130664219277755,,False,False,True,True,False
+958,1,"Burns, Miss. Mary Delia",-0.9141524225735773,0,0,330963,-0.49651700564494766,,False,True,False,False,True
+961,1,"Fortune, Mrs. Mark (Mary McDougald)",2.395914594174226,1,4,19950,4.07691267030533,C23 C25 C27,False,False,True,False,False
+962,1,"Mulvihill, Miss. Bertha E",-0.4412857058953197,0,0,382653,-0.4988331128150913,,False,True,False,False,True
+964,1,"Nieminen, Miss. Manta Josefina",-0.04723010866343835,0,0,3101297,-0.4956959707502683,,False,False,True,False,True
+966,1,"Geiger, Miss. Amalie",0.4256366080148193,0,0,113503,3.15369657694313,C130,False,False,False,False,False
+969,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",2.0018589969423446,2,0,11770,-0.17705196959467379,C101,False,False,True,False,False
+971,1,"Doyle, Miss. Elizabeth",-0.4412857058953197,0,0,368702,-0.4988331128150913,,False,True,False,False,True
+978,1,"Barry, Miss. Julia",-0.2048523475561909,0,0,330844,-0.49651700564494766,,False,True,False,False,True
+979,1,"Badman, Miss. Emily Louisa",-0.9141524225735773,0,0,A/4 31416,-0.4934551549896804,,False,False,True,False,True
+980,1,"O'Donoghue, Ms. Bridget",-0.2048523475561909,0,0,364856,-0.4988331128150913,,False,True,False,False,True
+982,1,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",-0.5989079447880722,1,0,347072,-0.38858497739416836,,False,False,True,False,True
+984,1,"Davidson, Mrs. Thornton (Orian Hays)",-0.2048523475561909,1,2,F.C. 12750,0.2944156664330132,B71,False,False,True,False,False
+988,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",3.6568925053162467,1,0,19877,0.7757428918072866,C46,False,False,True,False,False
+990,1,"Braf, Miss. Elin Ester Maria",-0.7565301836808248,0,0,347471,-0.4969651687970653,,False,False,True,False,True
+992,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",1.0561255635858293,1,0,11778,0.3561133912587352,C116,False,False,False,False,False
+996,1,"Thomas, Mrs. Alexander (Thamine Thelma"")""",-1.07177466146633,1,1,2625,-0.4850888452659496,,False,False,False,False,True
+1003,1,"Shine, Miss. Ellen Natalia",-0.2048523475561909,0,0,330968,-0.498309658253418,,False,True,False,False,True
+1004,1,"Evans, Miss. Edith Corse",0.5044477274611955,0,0,PC 17531,-0.06986568482901802,A29,False,False,False,False,False
+1005,1,"Buckley, Miss. Katherine",-0.8747468628503892,0,0,329944,-0.5071994225388221,,False,True,False,False,True
+1006,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",2.632347952513355,1,0,PC 17483,3.3379669238730085,C55 C57,False,False,True,False,False
+1009,1,"Sandstrom, Miss. Beatrice Irene",-2.253941453161974,1,1,PP 9549,-0.33839070435700014,G6,False,False,True,False,True
+1011,1,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",-0.04723010866343835,1,0,SC/AH 29037,-0.1716740117692629,,False,False,True,True,False
+1012,1,"Watt, Miss. Bertha J",-1.387019139251835,0,0,C.A. 33595,-0.3554209041374679,,False,False,True,True,False
+1014,1,"Schabert, Mrs. Paul (Emma Mock)",0.4256366080148193,1,0,13236,0.397493191420055,C28,False,False,False,False,False
+1017,1,"Cribb, Miss. Laura Alice",-0.9929635420199536,0,1,371362,-0.3491466200078219,,False,False,True,False,True
+1019,1,"McCoy, Miss. Alicia",-0.2048523475561909,2,0,367226,-0.22097195850219595,,False,True,False,False,True
+1024,1,"Lefebre, Mrs. Frank (Frances)",-0.2048523475561909,0,4,4133,-0.181234228130235,,False,False,True,False,True
+1030,1,"Drapkin, Miss. Jennie",-0.520096825341696,0,0,SOTON/OQ 392083,-0.4934551549896804,,False,False,True,False,True
+1032,1,"Goodwin, Miss. Jessie Allis",-1.5446413781445874,5,2,CA 2144,0.20299038340102823,,False,False,True,False,True
+1033,1,"Daniels, Miss. Sarah",0.2680143691220667,0,0,113781,2.07900133816519,,False,False,True,False,False
+1042,1,"Earnshaw, Mrs. Boulton (Olive Potter)",-0.520096825341696,0,1,11767,0.8529757441380124,C54,False,False,False,False,False
+1045,1,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",0.5044477274611955,0,2,350405,-0.41935944472377784,,False,False,True,False,True
+1048,1,"Bird, Miss. Ellen",-0.04723010866343835,0,0,PC 17483,3.3379669238730085,C97,False,False,True,False,False
+1049,1,"Lundin, Miss. Olga Elida",-0.520096825341696,0,0,347469,-0.4969651687970653,,False,False,True,False,True
+1051,1,"Peacock, Mrs. Benjamin (Edith Nile)",-0.28366346700256717,0,2,SOTON/O.Q. 3101315,-0.3908257931547562,,False,False,True,False,True
+1052,1,"Smyth, Miss. Julia",-0.2048523475561909,0,0,335432,-0.49913248580070585,,False,True,False,False,True
+1054,1,"Wright, Miss. Marion",-0.28366346700256717,0,0,220844,-0.3957555878280495,,False,False,True,True,False
+1057,1,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",-0.28366346700256717,1,1,315153,-0.24293195295595707,,False,False,True,False,True
+1060,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",-0.2048523475561909,0,0,17770,-0.1408260456827061,,False,False,False,False,False
+1061,1,"Hellstrom, Miss. Hilda Maria",-0.5989079447880722,0,0,7548,-0.477097199937389,,False,False,True,False,True
+1067,1,"Brown, Miss. Edith Eileen",-1.150585780912706,0,2,29750,0.06137082733187515,,False,False,True,True,False
+1068,1,"Sincock, Miss. Maude",-0.7565301836808248,0,0,C.A. 33112,0.02103614364129356,,False,False,True,True,False
+1070,1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",0.5044477274611955,0,3,230136,0.06137082733187515,F4,False,False,True,True,False
+1071,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",2.7111590719597314,0,2,PC 17756,0.8529757441380124,E45,False,False,False,False,False
+1074,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",-0.9141524225735773,1,0,113773,0.31413484512618645,D30,False,False,True,False,False
+1076,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",-0.2048523475561909,1,1,PC 17558,3.7994243877349976,B58 B60,False,False,False,False,False
+1078,1,"Phillips, Miss. Alice Frances Louisa",-0.6777190642344485,0,1,S.O./P.P. 2,-0.26130664219277755,,False,False,True,True,False
+1080,1,"Sage, Miss. Ada",-0.2048523475561909,8,2,CA. 2343,0.6090261992195495,,False,False,True,False,True
+1089,1,"Nilsson, Miss. Berta Olivia",-0.9141524225735773,0,0,347066,-0.49838494966297375,,False,False,True,False,True
+1091,1,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",-0.2048523475561909,0,0,65305,-0.49233474710938646,,False,False,True,False,True
+1092,1,"Murphy, Miss. Nora",-0.2048523475561909,0,0,36568,-0.3599025356586436,,False,True,False,False,True
+1095,1,"Quick, Miss. Winifred Vera",-1.70226361703734,1,1,26360,-0.1716740117692629,,False,False,True,True,False
+1098,1,"McGowan, Miss. Katherine",0.4256366080148193,0,0,9232,-0.4988331128150913,,False,True,False,False,True
+1100,1,"Rosenbaum, Miss. Edith Louise",0.2680143691220667,0,0,PC 17613,-0.1408260456827061,A11,False,False,False,False,False
+1105,1,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",2.395914594174226,1,0,24065,-0.1716740117692629,,False,False,True,True,False
+1106,1,"Andersson, Miss. Ida Augusta Margareta",0.6620699663539481,4,2,347091,-0.49838494966297375,,False,False,True,False,True
+1108,1,"Mahon, Miss. Bridget Delia",-0.2048523475561909,0,0,330924,-0.49651700564494766,,False,True,False,False,True
+1110,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",1.6078033997104633,1,1,113503,3.15369657694313,C80,False,False,False,False,False
+1112,1,"Duran y More, Miss. Florentina",0.031581010782937916,1,0,SC/PARIS 2148,-0.3893325135319004,,False,False,False,True,False
+1114,1,"Cook, Mrs. (Selena Rogers)",-0.5989079447880722,0,0,W./C. 14266,-0.44953516608215827,F33,False,False,True,True,False
+1116,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",1.8442367580495922,0,0,PC 17606,-0.14575584035599945,,False,False,False,False,False
+1117,1,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",-0.2048523475561909,0,2,2661,-0.3644594585893751,,False,False,False,False,True
+1119,1,"McNeill, Miss. Bridget",-0.2048523475561909,0,0,370368,-0.4988331128150913,,False,True,False,False,True
+1123,1,"Willard, Miss. Constance",-0.6777190642344485,0,0,113795,-0.16181442242267627,,False,False,True,False,False
+1130,1,"Hiltunen, Miss. Marta",-0.9141524225735773,1,1,250650,-0.40471885087040094,,False,False,True,True,False
+1131,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",1.4501811608177106,1,0,PC 17761,1.2700668485929698,C86,False,False,False,False,False
+1132,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",2.0018589969423446,0,0,112377,-0.1408260456827061,,False,False,False,False,False
+1133,1,"Christy, Mrs. (Alice Frances)",1.213747802478582,0,2,237789,-0.0999679074304512,,False,False,True,True,False
+1138,1,"Karnes, Mrs. J Frank (Claire Bennett)",-0.5989079447880722,0,0,F.C.C. 13534,-0.26130664219277755,,False,False,True,True,False
+1140,1,"Hold, Mrs. Stephen (Annie Margaret Hill)",-0.04723010866343835,1,0,26707,-0.1716740117692629,,False,False,True,True,False
+1141,1,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",-0.2048523475561909,1,0,2660,-0.37865009663802596,,False,False,False,False,True
+1142,1,"West, Miss. Barbara J",-2.260246342717684,1,2,C.A. 34651,-0.14030259112103277,,False,False,True,True,False
+1150,1,"Bentham, Miss. Lilian W",-0.835341303127201,0,0,28404,-0.40471885087040094,,False,False,True,True,False
+1154,1,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",-0.04723010866343835,0,2,29103,-0.22545359002337167,,False,False,True,True,False
+1155,1,"Klasen, Miss. Gertrud Emilia",-2.253941453161974,1,1,350405,-0.41935944472377784,,False,False,True,False,True
+1160,1,"Howard, Miss. May Elizabeth",-0.2048523475561909,0,0,A. 2. 39186,-0.4934551549896804,,False,False,True,False,True
+1164,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",-0.28366346700256717,1,0,13508,1.8142122066732598,C89,False,False,False,False,False
+1165,1,"Lennon, Miss. Mary",-0.2048523475561909,1,0,370371,-0.3599025356586436,,False,True,False,False,True
+1167,1,"Bryhl, Miss. Dagmar Jenny Ingeborg ",-0.7565301836808248,1,0,236853,-0.1716740117692629,,False,False,True,True,False
+1172,1,"Oreskovic, Miss. Jelka",-0.520096825341696,0,0,315085,-0.48247515776279987,,False,False,True,False,True
+1174,1,"Fleming, Miss. Honora",-0.2048523475561909,0,0,364859,-0.4988331128150913,,False,True,False,False,True
+1175,1,"Touma, Miss. Maria Youssef",-1.6234524975909637,1,1,2650,-0.3644594585893751,,False,False,False,False,True
+1176,1,"Rosblom, Miss. Salli Helena",-2.1751303337155976,1,1,370129,-0.2754237814844811,,False,False,True,False,True
+1183,1,"Daly, Miss. Margaret Marcella Maggie""""",0.031581010782937916,0,0,382650,-0.5131743336828537,,False,True,False,False,True
+1188,1,"Laroche, Miss. Louise",-2.253941453161974,1,2,SC/Paris 2123,0.10760692340954094,,False,False,False,True,False
+1196,1,"McCarthy, Miss. Catherine Katie""""",-0.2048523475561909,0,0,383123,-0.4988331128150913,,False,True,False,False,True
+1197,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",2.7111590719597314,1,1,112901,-0.16181442242267627,B26,False,False,True,False,False
+1201,1,"Hansen, Mrs. Claus Peter (Jennie L Howard)",1.213747802478582,1,0,350026,-0.3848508820107247,,False,False,True,False,True
+1205,1,"Carr, Miss. Jeannie",0.5832588469075718,0,0,368364,-0.4988331128150913,,False,True,False,False,True
+1206,1,"White, Mrs. John Stuart (Ella Holmes)",2.0018589969423446,0,0,PC 17760,1.7936702004327985,C32,False,False,False,False,False
+1207,1,"Hagardon, Miss. Kate",-0.9929635420199536,0,0,AQ/3. 30631,-0.49913248580070585,,False,True,False,False,True
+1216,1,"Kreuchen, Miss. Emilie",0.7408810858003243,0,0,24160,3.150783516454366,,False,False,True,False,False
+1218,1,"Becker, Miss. Ruth Elizabeth",-1.387019139251835,2,1,230136,0.06137082733187515,F4,False,False,True,True,False
+1222,1,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1.4501811608177106,0,2,C.A. 33112,0.02103614364129356,,False,False,True,True,False
+1225,1,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",-0.835341303127201,1,1,2653,-0.3555696943039709,,False,False,False,False,True
+1235,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",2.2382923552814735,0,1,PC 17755,8.546519077783444,B51 B53 B55,False,False,False,False,False
+1237,1,"Abelseth, Miss. Karen Marie",-1.07177466146633,0,0,348125,-0.5006257654235616,,False,False,True,False,True
+1239,1,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",0.6620699663539481,0,0,2688,-0.5081692476000046,,False,False,False,False,True
+1241,1,"Walcroft, Miss. Nellie",0.11039213022931418,0,0,F.C.C. 13528,-0.26130664219277755,,False,False,True,True,False
+1242,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",1.213747802478582,0,1,PC 17759,0.49803052766089445,D10 D12,False,False,False,False,False
+1246,1,"Dean, Miss. Elizabeth Gladys Millvina""""",-2.319354682302466,1,2,C.A. 2315,-0.26892541577877627,,False,False,True,False,True
+1248,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",2.31710347472785,2,0,11769,0.2850795316480999,C101,False,False,True,False,False
+1251,1,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",0.031581010782937916,1,0,349910,-0.35900620935440847,,False,False,True,False,True
+1253,1,"Mallet, Mrs. Albert (Antoinette Magnin)",-0.4412857058953197,1,1,S.C./PARIS 2079,0.025593066572024994,,False,False,False,True,False
+1254,1,"Ware, Mrs. John James (Florence Louise Long)",0.11039213022931418,0,0,CA 31352,-0.26130664219277755,,False,False,True,True,False
+1256,1,"Harder, Mrs. George Achilles (Dorothy Annan)",-0.3624745864489434,1,0,11765,0.3561133912587352,E50,False,False,False,False,False
+1257,1,"Sage, Mrs. John (Annie Bullen)",-0.2048523475561909,1,9,CA. 2343,0.6090261992195495,,False,False,True,False,True
+1259,1,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",-0.5989079447880722,0,0,3101295,0.07369531401510841,,False,False,True,False,True
+1260,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",1.213747802478582,0,1,112378,0.4270719594598148,,False,False,False,False,False
+1263,1,"Wilson, Miss. Helen Alice",0.11039213022931418,0,0,16966,1.7733540684210047,E39 E41,False,False,False,False,False
+1266,1,"Dodge, Mrs. Washington (Ruth Vidaver)",1.9230478774959683,1,1,33638,0.8296712602278986,A34,False,False,True,False,False
+1267,1,"Bowen, Miss. Grace Scott",1.213747802478582,0,0,PC 17608,4.065708591502392,,False,False,False,False,False
+1268,1,"Kink, Miss. Maria",-0.5989079447880722,2,0,315152,-0.48247515776279987,,False,False,True,False,True
+1274,1,"Risien, Mrs. Samuel (Emma)",-0.2048523475561909,0,0,364498,-0.3778290617433466,,False,False,True,False,True
+1275,1,"McNamee, Mrs. Neal (Eileen O'Leary)",-0.835341303127201,1,0,376566,-0.3491466200078219,,False,False,True,False,True
+1277,1,"Herman, Miss. Kate",-0.4412857058953197,1,2,220845,0.5274605055341512,,False,False,True,True,False
+1283,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1.6866145191568396,0,1,PC 17592,0.06854143776575629,D28,False,False,True,False,False
+1287,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",-0.9141524225735773,1,0,13695,0.4378278751106366,C31,False,False,True,False,False
+1289,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1.4501811608177106,1,1,13567,0.7820171759369329,B41,False,False,False,False,False
+1292,1,"Bonnell, Miss. Caroline",0.031581010782937916,0,0,36928,2.3177235080773535,C7,False,False,True,False,False
+1294,1,"Gibson, Miss. Dorothy Winifred",-0.5989079447880722,0,1,112378,0.4270719594598148,,False,False,False,False,False
+1300,1,"Riordan, Miss. Johanna Hannah""""",-0.2048523475561909,0,0,334915,-0.49935656737676465,,False,True,False,False,True
+1301,1,"Peacock, Miss. Treasteall",-2.0963192142692213,1,1,SOTON/O.Q. 3101315,-0.3908257931547562,,False,False,True,False,True
+1302,1,"Naughton, Miss. Hannah",-0.2048523475561909,0,0,365237,-0.4988331128150913,,False,True,False,False,True
+1303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",0.5832588469075718,1,0,19928,0.9756236576517244,C78,False,True,False,False,False
+1304,1,"Henriksson, Miss. Jenny Lovisa",-0.1260412281098146,0,0,347086,-0.49838494966297375,,False,False,True,False,True
+1306,1,"Oliva y Ocana, Dona. Fermina",0.7408810858003243,0,0,PC 17758,1.31443500065261,C105,False,False,False,False,False
